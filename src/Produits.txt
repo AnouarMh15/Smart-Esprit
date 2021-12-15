@@ -1,0 +1,6 @@
+V1 viande 4 FRAIS 4 3 2023 restaurant nouveau 2021/12/10 
+F1 formage 40 FRAIS 5 5 2023 restaurant nouveau 2021/12/15 
+C1 capteur 55 Magasin 30 12 2022 general nouveau 2021/12/16 
+p1 pomme 21 FRAIS 21 12 2020 restaurant nouveau 2021/12/4 
+Fr1 Framboise 100 FRAIS 15 4 2022 restaurant ancien 2021/12/4 
+A1 Alarme 8 Magasin 4 1 2023 general ancien 2021/12/16 

@@ -1,0 +1,10 @@
+anwer mh anwer 123 Stock
+oussema ch oussema 123 Capteur
+amine cher amine 123 Réclamation
+raouf khoudi raouf 123 Foyer
+
+mouhamed zar mouhamed 1234 Nutritionniste
+Ibrahimm Bkh Ibrahim 1234 Administrateur
+mia kh mia 123 Administrateur
+brahim1 bnkhlifa1 brahim1 12345 Administrateur
+brahim khlifa barhoum 123456 Administrateur
